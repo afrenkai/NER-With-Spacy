@@ -1,4 +1,4 @@
-# Little Gradio App to NER with spaCy's transformer model
+# Little Gradio App for NER with spaCy's transformer model
 
 
 1. ` pip install -r requirements.txt`

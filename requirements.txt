@@ -1,0 +1,3 @@
+gradio
+spacy
+ipywidgets # for vscode
